@@ -1,0 +1,8 @@
+[package]
+name = "hash-proof-system"
+version = "0.1.0"
+authors = ["quininer <quininer@live.com>"]
+
+[dependencies]
+rand = "*"
+curve25519-dalek = "*"
